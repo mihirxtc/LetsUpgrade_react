@@ -1,0 +1,2 @@
+Day-3 Assignment
+Load the component using .map() function
